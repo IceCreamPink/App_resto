@@ -10,16 +10,18 @@
 
 <body>
     <header>
-        <h1>Resto Nyaa</h1>
-        <nav>
+        <h1>Resto</h1>
+        <nav class="navbar">
             <ul>
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Hot Promo</a></li>
-                <li><a href="#">Menu</a></li>
-                <li><a href="#">Pilihan Box</a></li>
+                <li><a href="#">Makanan</a></li>
+                <li><a href="#">Minuman</a></li>
+                <li><a href="#">Desert</a></li>
             </ul>
         </nav>
     </header>
+
     <section class="menu">
         <h2>Menu Kami</h2>
         <div class="menu-item">
